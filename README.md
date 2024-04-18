@@ -20,6 +20,6 @@ To get started with this project, follow these steps:
 ## Contributors
 - Cameron Copenhaver (@ccopenh1)
 - Jacob Smith (@JWSmith1)
-- Eunyoung Kim ()
+- Eunyoung Kim (@Eunyoungkim0)
 - Betty Bangali ()
 
