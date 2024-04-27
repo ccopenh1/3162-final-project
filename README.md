@@ -21,5 +21,5 @@ To get started with this project, follow these steps:
 - Cameron Copenhaver (@ccopenh1)
 - Jacob Smith (@JWSmith1)
 - Eunyoung Kim (@Eunyoungkim0)
-- Betty Bangali ()
+- Tyler Rickman (@trickman24)
 
